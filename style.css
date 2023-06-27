@@ -43,3 +43,10 @@ footer{
     position: absolute;
 }
 
+#vid1{
+    position: absolute;
+    top: 80px;
+    right: 40px;
+    height: 500px;
+    width:1000px;
+}
