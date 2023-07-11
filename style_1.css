@@ -242,3 +242,14 @@ button{
     margin: 5px;
 
  }
+ footer{
+    height: 90px;
+    background: color #f3f5f8;
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+ }
+
+ footer p{
+    text-align: left;
+ }
