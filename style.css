@@ -80,7 +80,7 @@ nav{
     height: 600px;
     width: 600px;
     border-radius: 50%;
-    left:-12%;
+    left:-20%;
     top: 40%;
     background: linear-gradient(45deg,#043e38, #0a9487);
     animation: object1 6s linear infinite;
@@ -100,7 +100,7 @@ nav{
 
 @keyframes object1{
     50%{
-        left: -13%;
+        left: -21%;
         top: 41%;
     }
 }
