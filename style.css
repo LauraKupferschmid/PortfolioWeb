@@ -82,7 +82,7 @@ nav{
     border-radius: 50%;
     left:-20%;
     top: 40%;
-    background: linear-gradient(45deg,#043e38, #0a9487);
+    background: linear-gradient(45deg,#043530, #0e776d);
     animation: object1 6s linear infinite;
 }
 
@@ -94,7 +94,7 @@ nav{
     border-radius: 50%;
     left:35%;
     top: 12%;
-    background: linear-gradient(45deg,#043e38, #0a9487);
+    background: linear-gradient(45deg,#043530, #0e776d);
     animation: object2 6s linear infinite;
 }
 
@@ -142,7 +142,7 @@ h1{
     display: block;
     font-size: 5em;
     font-weight: 900;
-    color:#3d535f;
+    color:#7b929e;
 }
 
 .multiText{
@@ -154,7 +154,7 @@ p{
     display: block;
     width: 90%;
     font-size: 1.2em;
-    color: #3d535f;
+    color: #7b929e;
 }
 
 .btns{
