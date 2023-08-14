@@ -259,6 +259,8 @@ button{
     width: 100%;
     display: block;
     max-height: 90px;
+    margin: 0;
+    padding: 0;
 
  }
 
