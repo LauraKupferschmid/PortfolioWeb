@@ -113,12 +113,12 @@ nav{
 }
 
 .cols0{
-    width: 60%;
+    width: 50%;
     z-index: 5;
 }
 
 .cols{
-    width: 50%;
+    width: 40%;
 }
 
 .topline{
@@ -193,16 +193,16 @@ button:hover{
     height:100%;
     width:calc(100% - 90px);
     top: -100px;
-    right: 50px;
+    right: 30px;
     transform: rotateY(180deg);
     animation: animateUser 4s linear infinite;
 }
-@keyframes animateUser {
+/* @keyframes animateUser {
     50%{
         right: 30px;
         top: -90px;
     }
-}
+} */
 
 .imgbox #splash{
     position: absolute;
@@ -214,13 +214,13 @@ button:hover{
     animation: animate 4s linear infinite;
 }
 
-@keyframes animate {
+/* @keyframes animate {
     50%{
         top: 49%;
         left: 51%;
         width: 155%;
     }
-}
+} */
  /* The dropdown container */
  .dropdown {
     float: left;
